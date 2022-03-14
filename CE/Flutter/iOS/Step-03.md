@@ -1,0 +1,3 @@
+# iOS - Flutter Initialize
+
+## Step 2: Initialize Smartech SDK
