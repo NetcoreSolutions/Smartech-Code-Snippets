@@ -1,5 +1,3 @@
-# Android - Flutter Integrate
-
 ## Step 1: Integrate the latest Smartech SDK
 
 Make the following changes in the app-level build.gradle
