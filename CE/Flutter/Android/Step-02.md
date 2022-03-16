@@ -3,7 +3,7 @@
 ## Step 1: Integrate the latest Smartech SDK
 
 Make the following changes in the app-level build.gradle
-```shell
+```shell-session
 apply plugin: 'com.android.application'
 
 android {
