@@ -3,7 +3,7 @@
     "baseUrl": "https://raw.githubusercontent.com/NetcoreSolutions/Smartech-Code-Snippets/main/CE"
   },
   "android": {
-    "native": [
+    "Native": [
         {
             "order": 0,
             "fileURL": "Native/Android/Step-01.md",
@@ -25,7 +25,7 @@
             "isMarkAsDone": false
         }
     ],
-    "reactNative": [
+    "React Native": [
         {
             "order": 0,
             "fileURL": "ReactNative/Android/Step-01.md",
@@ -93,7 +93,7 @@
     ]
   },
   "ios": {
-    "native": [
+    "Native": [
       {
         "order": 0,
         "fileURL": "Native/Android/Step-01.md",
@@ -105,8 +105,8 @@
         "isMarkAsDone": true
       }
     ],
-    "reactNative": [],
-    "Xamrin": [],
+    "React Native": [],
+    "Flutter": [],
     "Cordova": []
   }
 }
