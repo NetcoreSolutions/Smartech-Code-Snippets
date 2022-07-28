@@ -1,0 +1,112 @@
+{
+  "config": {
+    "baseUrl": "https://raw.githubusercontent.com/NetcoreSolutions/Smartech-Code-Snippets/main/CE"
+  },
+  "android": {
+    "native": [
+        {
+            "order": 1,
+            "fileURL": "Native/Android/Step-01.md",
+            "shouldMarkAsDone": false
+        },
+        {
+            "order": 2,
+            "fileURL": "Native/Android/Step-02.md",
+            "shouldMarkAsDone": true
+        },
+        {
+            "order": 3,
+            "fileURL": "Native/Android/Step-03.md",
+            "shouldMarkAsDone": true
+        },
+        {
+            "order": 4,
+            "fileURL": "Native/Android/Step-04.md",
+            "shouldMarkAsDone": false
+        }
+    ],
+    "reactNative": [
+        {
+            "order": 1,
+            "fileURL": "ReactNative/Android/Step-01.md",
+            "shouldMarkAsDone": false
+        },
+        {
+            "order": 2,
+            "fileURL": "ReactNative/Android/Step-02.md",
+            "shouldMarkAsDone": true
+        },
+        {
+            "order": 3,
+            "fileURL": "ReactNative/Android/Step-03.md",
+            "shouldMarkAsDone": true
+        },
+        {
+            "order": 4,
+            "fileURL": "ReactNative/Android/Step-04.md",
+            "shouldMarkAsDone": false
+        }
+    ],
+    "Flutter": [
+        {
+            "order": 1,
+            "fileURL": "Flutter/Android/Step-01.md",
+            "shouldMarkAsDone": false
+        },
+        {
+            "order": 2,
+            "fileURL": "Flutter/Android/Step-02.md",
+            "shouldMarkAsDone": true
+        },
+        {
+            "order": 3,
+            "fileURL": "Flutter/Android/Step-03.md",
+            "shouldMarkAsDone": true
+        },
+        {
+            "order": 4,
+            "fileURL": "Flutter/Android/Step-04.md",
+            "shouldMarkAsDone": false
+        }
+    ],
+    "Cordova": [
+        {
+            "order": 1,
+            "fileURL": "Cordova/Android/Step-01.md",
+            "shouldMarkAsDone": false
+        },
+        {
+            "order": 2,
+            "fileURL": "Cordova/Android/Step-02.md",
+            "shouldMarkAsDone": true
+        },
+        {
+            "order": 3,
+            "fileURL": "Cordova/Android/Step-03.md",
+            "shouldMarkAsDone": true
+        },
+        {
+            "order": 4,
+            "fileURL": "Cordova/Android/Step-04.md",
+            "shouldMarkAsDone": false
+        }
+    ]
+  },
+  "ios": {
+    "native": [
+      {
+        "order": 1,
+        "fileURL": "Native/Android/Step-01.md",
+        "shouldMarkAsDone": true
+      },
+      {
+        "order": 2,
+        "fileURL": "Native/Android/Step-01.md",
+        "shouldMarkAsDone": true
+      }
+    ],
+    "reactNative": [],
+    "Xamrin": [],
+    "Cordova": []
+  }
+}
