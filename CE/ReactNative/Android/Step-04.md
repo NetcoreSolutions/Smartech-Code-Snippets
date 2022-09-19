@@ -1,4 +1,4 @@
-## Step 2: Initialize Smartech SDK
+## Step 3: Initialize Smartech SDK
 
 2.1 Put your Smartech panel's app Id in the meta-data tag of your application's manifest file, it should be added within the application tag, but outside of any component within the application tag.
 
