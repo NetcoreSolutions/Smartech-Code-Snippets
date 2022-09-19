@@ -1,3 +1,8 @@
-## Integrate Android SDK to start using In App Messages and System Events tracking
+## Installing Smartech Base React Native
 
-Follow these 2 steps to integrate your Android project with Netcore CEE Android SDK by refering this <a href="https://cedocs.netcorecloud.com/" target="_blank">guide</a>
+Install CEE React Native plugin using the npm package manager. And then link your native dependencies :
+
+Shell script
+```
+npm install smartech-base-react-native
+```

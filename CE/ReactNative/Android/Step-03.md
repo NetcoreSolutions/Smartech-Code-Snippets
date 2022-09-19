@@ -1,28 +1,29 @@
-## Step 2: Initialize Smartech SDK
+## Step 1: Integrate the latest Smartech SDK
 
-2.1 Put your Smartech panel's app Id in the meta-data tag of your application's manifest file, it should be added within the application tag, but outside of any component within the application tag.
+Make the following changes in the app-level build.gradle
+```shell-session
+apply plugin: 'com.android.application'
 
-To get Smartech App ID, follow steps given <a href="https://cedocs.netcorecloud.com/docs/android-app-id-creation" target="_blank">here</a>, else please get in touch with your account manager to get the value of SMT_APP_ID
-
-```sh
-<meta-data android:name="SMT_APP_ID" android:value="YOUR_SMARTECH_APP_ID_HERE" />
-```
-
-2.2 Add the below mentioned code in the onCreate() method of your Application class to initialize the Smartech SDK.
-
-Java Code Snippet
-```java
-@Override
-public  void  onCreate() {
-	super.onCreate();
-	Smartech.getInstance(new  WeakReference<>(context)).initializeSdk(this);
+android {
+    defaultConfig { ... }
+    buildTypes {}
 }
-```
 
-Kotlin Code Snippet
-```kotlin
-override  fun  onCreate() {
-	super.onCreate()
-	Smartech.getInstance(WeakReference(applicationContext)).initializeSdk(this)
+repositories {
+    maven { url 'https://artifacts.netcore.co.in/artifactory/android' }
+}
+
+dependencies {
+    implementation 'com.netcore.android:smartech-sdk:3.2.13'
+    // WorkManager Version 2.7.0 is required for apps targeting Android 12 (S), uncomment the below line based on the app side requirement
+
+    // (Java only enable below)
+    // implementation 'androidx.work:work-runtime:2.7.0'
+
+    // Kotlin + coroutines enable below
+    // implementation 'androidx.work:work-runtime-ktx:2.7.0'
+}
+
+buildscript {
 }
 ```

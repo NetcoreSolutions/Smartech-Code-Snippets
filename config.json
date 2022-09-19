@@ -29,12 +29,12 @@
         {
             "order": 0,
             "fileURL": "ReactNative/Android/Step-01.md",
-            "isMarkAsDone": false
+            "isMarkAsDone": true
         },
         {
             "order": 1,
             "fileURL": "ReactNative/Android/Step-02.md",
-            "isMarkAsDone": true
+            "isMarkAsDone": false
         },
         {
              "order": 2,
@@ -44,7 +44,7 @@
         {
             "order": 3,
             "fileURL": "ReactNative/Android/Step-04.md",
-            "isMarkAsDone": false
+            "isMarkAsDone": true
         }
     ],
     "Flutter": [
