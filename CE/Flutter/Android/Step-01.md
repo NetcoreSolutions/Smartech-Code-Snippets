@@ -14,8 +14,8 @@ To initiate the CEE SDK, Add below in Application class
 Java code snippet
 ```
 override fun onCreate() {
-super.onCreate()
-SmartechBasePlugin.Companion.initializePlugin(this);
+    super.onCreate()
+    SmartechBasePlugin.Companion.initializePlugin(this);
 }
 ```
 
