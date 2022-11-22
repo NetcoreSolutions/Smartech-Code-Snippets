@@ -26,3 +26,5 @@ override  fun  onCreate() {
 	Smartech.getInstance(WeakReference(applicationContext)).initializeSdk(this)
 }
 ```
+
+## Note: Please install your build on your device and compile it before proceeding to next step.
