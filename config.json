@@ -4,109 +4,182 @@
   },
   "android": {
     "Native": [
-        {
-            "order": 0,
-            "fileURL": "Native/Android/Step-01.md",
-            "isMarkAsDone": false
-        },
-        {
-            "order": 1,
-            "fileURL": "Native/Android/Step-02.md",
-            "isMarkAsDone": true
-        },
-        {
-             "order": 2,
-            "fileURL": "Native/Android/Step-03.md",
-            "isMarkAsDone": true
-        },
-        {
-            "order": 3,
-            "fileURL": "Native/Android/Step-04.md",
-            "isMarkAsDone": false
-        }
+      {
+        "order": 0,
+        "fileURL": "Native/Android/Step-01.md",
+        "isMarkAsDone": false
+      },
+      {
+        "order": 1,
+        "fileURL": "Native/Android/Step-02.md",
+        "isMarkAsDone": true
+      },
+      {
+        "order": 2,
+        "fileURL": "Native/Android/Step-03.md",
+        "isMarkAsDone": true
+      },
+      {
+        "order": 3,
+        "fileURL": "Native/Android/Step-04.md",
+        "isMarkAsDone": false
+      }
     ],
     "React Native": [
-        {
-            "order": 0,
-            "fileURL": "ReactNative/Android/Step-01.md",
-            "isMarkAsDone": true
-        },
-        {
-            "order": 1,
-            "fileURL": "ReactNative/Android/Step-02.md",
-            "isMarkAsDone": false
-        },
-        {
-             "order": 2,
-            "fileURL": "ReactNative/Android/Step-03.md",
-            "isMarkAsDone": true
-        },
-        {
-            "order": 3,
-            "fileURL": "ReactNative/Android/Step-04.md",
-            "isMarkAsDone": true
-        }
+      {
+        "order": 0,
+        "fileURL": "ReactNative/Android/Step-01.md",
+        "isMarkAsDone": true
+      },
+      {
+        "order": 1,
+        "fileURL": "ReactNative/Android/Step-02.md",
+        "isMarkAsDone": false
+      },
+      {
+        "order": 2,
+        "fileURL": "ReactNative/Android/Step-03.md",
+        "isMarkAsDone": true
+      },
+      {
+        "order": 3,
+        "fileURL": "ReactNative/Android/Step-04.md",
+        "isMarkAsDone": true
+      }
     ],
     "Flutter": [
-        {
-            "order": 0,
-            "fileURL": "Flutter/Android/Step-01.md",
-            "isMarkAsDone": true
-        },
-        {
-            "order": 1,
-            "fileURL": "Flutter/Android/Step-02.md",
-            "isMarkAsDone": false
-        },
-        {
-             "order": 2,
-            "fileURL": "Flutter/Android/Step-03.md",
-            "isMarkAsDone": true
-        },
-        {
-            "order": 3,
-            "fileURL": "Flutter/Android/Step-04.md",
-            "isMarkAsDone": true
-        }
+      {
+        "order": 0,
+        "fileURL": "Flutter/Android/Step-01.md",
+        "isMarkAsDone": true
+      },
+      {
+        "order": 1,
+        "fileURL": "Flutter/Android/Step-02.md",
+        "isMarkAsDone": false
+      },
+      {
+        "order": 2,
+        "fileURL": "Flutter/Android/Step-03.md",
+        "isMarkAsDone": true
+      },
+      {
+        "order": 3,
+        "fileURL": "Flutter/Android/Step-04.md",
+        "isMarkAsDone": true
+      }
     ],
     "Cordova": [
-        {
-            "order": 0,
-            "fileURL": "Cordova/Android/Step-01.md",
-            "isMarkAsDone": true
-        },
-        {
-            "order": 1,
-            "fileURL": "Cordova/Android/Step-02.md",
-            "isMarkAsDone": false
-        },
-        {
-             "order": 2,
-            "fileURL": "Cordova/Android/Step-03.md",
-            "isMarkAsDone": true
-        },
-        {
-            "order": 3,
-            "fileURL": "Cordova/Android/Step-04.md",
-            "isMarkAsDone": true
-        }
+      {
+        "order": 0,
+        "fileURL": "Cordova/Android/Step-01.md",
+        "isMarkAsDone": true
+      },
+      {
+        "order": 1,
+        "fileURL": "Cordova/Android/Step-02.md",
+        "isMarkAsDone": false
+      },
+      {
+        "order": 2,
+        "fileURL": "Cordova/Android/Step-03.md",
+        "isMarkAsDone": true
+      },
+      {
+        "order": 3,
+        "fileURL": "Cordova/Android/Step-04.md",
+        "isMarkAsDone": true
+      }
     ]
   },
   "ios": {
     "Native": [
       {
         "order": 0,
-        "fileURL": "Native/Android/Step-01.md",
+        "fileURL": "Native/iOS/Step-01.md",
         "isMarkAsDone": true
       },
       {
         "order": 1,
-        "fileURL": "Native/Android/Step-01.md",
+        "fileURL": "Native/iOS/Step-01.md",
+        "isMarkAsDone": true
+      },
+      {
+        "order": 2,
+        "fileURL": "Native/iOS/Step-03.md",
+        "isMarkAsDone": true
+      },
+      {
+        "order": 3,
+        "fileURL": "Native/iOS/Step-04.md",
+        "isMarkAsDone": false
+      }
+    ],
+    "React Native": [
+      {
+        "order": 0,
+        "fileURL": "ReactNative/iOS/Step-01.md",
+        "isMarkAsDone": true
+      },
+      {
+        "order": 1,
+        "fileURL": "ReactNative/iOS/Step-02.md",
+        "isMarkAsDone": false
+      },
+      {
+        "order": 2,
+        "fileURL": "ReactNative/iOS/Step-03.md",
+        "isMarkAsDone": true
+      },
+      {
+        "order": 3,
+        "fileURL": "ReactNative/iOS/Step-04.md",
         "isMarkAsDone": true
       }
     ],
-    "React Native": [],
-    "Flutter": [],
-    "Cordova": []
+    "Flutter": [
+      {
+        "order": 0,
+        "fileURL": "Flutter/iOS/Step-01.md",
+        "isMarkAsDone": true
+      },
+      {
+        "order": 1,
+        "fileURL": "Flutter/iOS/Step-02.md",
+        "isMarkAsDone": false
+      },
+      {
+        "order": 2,
+        "fileURL": "Flutter/iOS/Step-03.md",
+        "isMarkAsDone": true
+      },
+      {
+        "order": 3,
+        "fileURL": "Flutter/iOS/Step-04.md",
+        "isMarkAsDone": true
+      }
+    ],
+    "Cordova": [
+      {
+        "order": 0,
+        "fileURL": "Cordova/iOS/Step-01.md",
+        "isMarkAsDone": true
+      },
+      {
+        "order": 1,
+        "fileURL": "Cordova/iOS/Step-02.md",
+        "isMarkAsDone": false
+      },
+      {
+        "order": 2,
+        "fileURL": "Cordova/iOS/Step-03.md",
+        "isMarkAsDone": true
+      },
+      {
+        "order": 3,
+        "fileURL": "Cordova/iOS/Step-04.md",
+        "isMarkAsDone": true
+      }
+    ]
   }
 }
