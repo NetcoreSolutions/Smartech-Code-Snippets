@@ -1,3 +1,7 @@
-## Integrate iOS SDK to start using In App Messages and System Events tracking
+## Step1: Installing CEE Cordova
 
-Follow these 2 steps to integrate your iOS project with Netcore CEE iOS SDK by refering this <a href="https://cedocs.netcorecloud.com/" target="_blank">guide</a>
+Install CEE Cordova plugin using the npm package manager. And then link your native dependencies :
+
+```
+cordova plugin add smartech-cordova-plugin
+```

@@ -1,3 +1,8 @@
-## Integrate iOS SDK to start using In App Messages and System Events tracking
+## Step1: Installing CEE Flutter Plugin
 
-Follow these 2 steps to integrate your iOS project with Netcore CEE iOS SDK by refering this <a href="https://cedocs.netcorecloud.com/" target="_blank">guide</a>
+Implement plugin in pubspecs.yaml file under dependencies:
+
+By using pub
+```
+smartech_base: ^3.2.1
+```
