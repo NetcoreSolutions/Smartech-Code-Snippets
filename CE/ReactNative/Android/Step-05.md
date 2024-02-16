@@ -1,4 +1,4 @@
-# Step 3: Configuring Deeplink scheme
+# Step 4: Configuring Deeplink scheme
 
 You are required to define a [custom URL scheme](https://developer.android.com/training/app-links/deep-linking) for pairing your device as a test device. Kindly follow the below steps to configure a custom URL scheme.
 
