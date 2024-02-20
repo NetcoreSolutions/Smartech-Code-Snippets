@@ -15,7 +15,7 @@ Add the following intent filter to the activity that you want to handle the deep
 android:host="smartech_sdk_td" />
 </intent-filter>
 ```
-Changes in the Activity that is assigned to handle the deep link
+## Changes in the Activity that is assigned to handle the deep link
 
 Java Code Snippet
 ```Java
@@ -24,7 +24,7 @@ class YourActivity extends  AppCompatActivity {
 	@Override
 	protected void onCreate(Bundle  savedInstanceState) {
 		...
-		boolean isSmartechHandledDeeplink = Smartech.getInstance(new 		WeakReference<>(this)).isDeepLinkFromSmartech(getIntent());
+		boolean isSmartechHandledDeeplink = Smartech.getInstance(new WeakReference<>(this)).isDeepLinkFromSmartech(getIntent());
 		if (!isSmartechHandledDeeplink) {
 		//Handle deeplink on app side
 		}
