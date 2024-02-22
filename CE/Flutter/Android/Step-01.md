@@ -1,4 +1,4 @@
-## Step1: Installing CEE Flutter Plugin
+## Step 1: Installing CEE Flutter Plugin
 
 Implement plugin in pubspecs.yaml file under dependencies:
 
