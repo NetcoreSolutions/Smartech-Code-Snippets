@@ -22,7 +22,7 @@
       {
         "order": 3,
         "fileURL": "Native/Android/Step-04.md",
-        "isMarkAsDone": false
+        "isMarkAsDone": true
       }
     ],
     "React Native": [
@@ -44,6 +44,11 @@
       {
         "order": 3,
         "fileURL": "ReactNative/Android/Step-04.md",
+        "isMarkAsDone": true
+      },
+      {
+        "order": 4,
+        "fileURL": "ReactNative/Android/Step-05.md",
         "isMarkAsDone": true
       }
     ],
@@ -67,6 +72,11 @@
         "order": 3,
         "fileURL": "Flutter/Android/Step-04.md",
         "isMarkAsDone": true
+      },
+      {
+        "order": 4,
+        "fileURL": "Flutter/Android/Step-05.md",
+        "isMarkAsDone": true
       }
     ],
     "Cordova": [
@@ -88,6 +98,11 @@
       {
         "order": 3,
         "fileURL": "Cordova/Android/Step-04.md",
+        "isMarkAsDone": true
+      },
+      {
+        "order": 4,
+        "fileURL": "Cordova/Android/Step-05.md",
         "isMarkAsDone": true
       }
     ]
