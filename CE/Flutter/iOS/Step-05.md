@@ -1,4 +1,4 @@
-## Step 3: Configure Apps Info.plist with SmartechKeys
+## Step 4: Configure Apps Info.plist with SmartechKeys
 
 You need to add a key named `SmartechKeys` with type Dictionary. Add the following keys and values with their types to the `SmartechKeys`
 
