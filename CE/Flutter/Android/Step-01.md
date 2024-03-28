@@ -4,7 +4,7 @@ Implement plugin in pubspecs.yaml file under dependencies:
 
 By using pub
 ```
-smartech_base: ^3.2.1
+smartech_base: ^3.5.0
 ```
 
 ## For Android SDK Setup
