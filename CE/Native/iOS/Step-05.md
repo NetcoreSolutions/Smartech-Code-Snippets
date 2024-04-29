@@ -5,3 +5,5 @@
 2. Click on `Info` tab and then expand `URL Types` section.
 
 3. In **Identifier** field add your projects `BundleId` and in **URL Schemes** write `smartech`.
+
+## Note: Please install your build on your device and compile it before proceeding to next step

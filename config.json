@@ -112,7 +112,7 @@
       {
         "order": 0,
         "fileURL": "Native/iOS/Step-01.md",
-        "isMarkAsDone": true
+        "isMarkAsDone": false
       },
       {
         "order": 1,
@@ -144,7 +144,7 @@
       {
         "order": 1,
         "fileURL": "ReactNative/iOS/Step-02.md",
-        "isMarkAsDone": true
+        "isMarkAsDone": false
       },
       {
         "order": 2,
@@ -176,7 +176,7 @@
       {
         "order": 1,
         "fileURL": "Flutter/iOS/Step-02.md",
-        "isMarkAsDone": true
+        "isMarkAsDone": false
       },
       {
         "order": 2,
@@ -208,7 +208,7 @@
       {
         "order": 1,
         "fileURL": "Cordova/iOS/Step-02.md",
-        "isMarkAsDone": true
+        "isMarkAsDone": false
       },
       {
         "order": 2,

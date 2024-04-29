@@ -1,7 +1,7 @@
 ## Step 1: Adding SDK dependency - CocoaPods
 In the Podfile add the `Smartech-iOS-SDK` as a dependency.
 ```ruby
-pod 'Smartech-iOS-SDK', '~> 3.4.1'
+pod 'Smartech-iOS-SDK', '~> 3.5.3'
 ```
 Run the following command to update the added pod in your `Podfile`.
 
