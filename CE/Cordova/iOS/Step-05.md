@@ -28,5 +28,3 @@ You can paste the following sinppet in `Info.plist` of your app and set the appr
 Following is the image representation of apps `Info.plist` for key `SmartechKeys`:
 
 ![](https://files.readme.io/16a81d1-Screenshot_2020-06-17_at_1.52.28_AM.png  "SmartechKeys.png")
-
-#### Note: Please install your build on your device and compile it before proceeding to next step

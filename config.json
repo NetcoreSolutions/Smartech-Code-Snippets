@@ -112,11 +112,11 @@
       {
         "order": 0,
         "fileURL": "Native/iOS/Step-01.md",
-        "isMarkAsDone": true
+        "isMarkAsDone": false
       },
       {
         "order": 1,
-        "fileURL": "Native/iOS/Step-01.md",
+        "fileURL": "Native/iOS/Step-02.md",
         "isMarkAsDone": true
       },
       {
@@ -144,7 +144,7 @@
       {
         "order": 1,
         "fileURL": "ReactNative/iOS/Step-02.md",
-        "isMarkAsDone": true
+        "isMarkAsDone": false
       },
       {
         "order": 2,
@@ -158,12 +158,12 @@
       },
       {
         "order": 4,
-        "fileURL": "Native/iOS/Step-05.md",
+        "fileURL": "ReactNative/iOS/Step-05.md",
         "isMarkAsDone": true
       },
       {
         "order": 5,
-        "fileURL": "Native/iOS/Step-06.md",
+        "fileURL": "ReactNative/iOS/Step-06.md",
         "isMarkAsDone": true
       }
     ],
@@ -176,7 +176,7 @@
       {
         "order": 1,
         "fileURL": "Flutter/iOS/Step-02.md",
-        "isMarkAsDone": true
+        "isMarkAsDone": false
       },
       {
         "order": 2,
@@ -190,12 +190,12 @@
       },
       {
         "order": 4,
-        "fileURL": "Native/iOS/Step-05.md",
+        "fileURL": "Flutter/iOS/Step-05.md",
         "isMarkAsDone": true
       },
       {
         "order": 5,
-        "fileURL": "Native/iOS/Step-06.md",
+        "fileURL": "Flutter/iOS/Step-06.md",
         "isMarkAsDone": true
       }
     ],
@@ -208,7 +208,7 @@
       {
         "order": 1,
         "fileURL": "Cordova/iOS/Step-02.md",
-        "isMarkAsDone": true
+        "isMarkAsDone": false
       },
       {
         "order": 2,
@@ -222,12 +222,12 @@
       },
       {
         "order": 4,
-        "fileURL": "Native/iOS/Step-05.md",
+        "fileURL": "Cordova/iOS/Step-05.md",
         "isMarkAsDone": true
       },
       {
         "order": 5,
-        "fileURL": "Native/iOS/Step-06.md",
+        "fileURL": "Cordova/iOS/Step-06.md",
         "isMarkAsDone": true
       }
     ]
