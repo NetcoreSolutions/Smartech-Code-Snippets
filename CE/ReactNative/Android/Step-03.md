@@ -14,7 +14,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.netcore.android:smartech-sdk:3.5.4'
+    implementation 'com.netcore.android:smartech-sdk:3.5.5'
     // WorkManager Version 2.7.0 is required for apps targeting Android 12 (S), uncomment the below line based on the app side requirement
 
     // (Java only enable below)
