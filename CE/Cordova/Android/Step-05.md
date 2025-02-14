@@ -40,7 +40,7 @@ class YourActivity :  AppCompatActivity() {
 	override fun onCreate(savedInstanceState: Bundle?)
 	{
 		...
-		val isSmartechHandledDeeplink = getInstance(WeakReference(this)).isDeepLinkFromSmartech(intent)
+		val isSmartechHandledDeeplink = Smartech.getInstance(WeakReference(this)).isDeepLinkFromSmartech(intent)
 		if (!isSmartechHandledDeeplink) {
 		//Handle deeplink on app side
 		}
